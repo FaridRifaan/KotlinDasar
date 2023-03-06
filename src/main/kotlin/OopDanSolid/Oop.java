@@ -1,0 +1,5 @@
+package OopDanSolid;
+
+class Oop {
+
+}

@@ -1,0 +1,5 @@
+package LatihanSolid
+
+fun main(){
+
+}
